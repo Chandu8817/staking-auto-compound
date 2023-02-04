@@ -122,3 +122,5 @@ contract Staking {
         StakedAmount[msg.sender] = 0;
     }
 }
+
+
